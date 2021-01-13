@@ -1,3 +1,4 @@
+```
 To create a new bet:
 $bet -n "Winnie the Pooh will be the emperor of the world by 2050" -s "0.1 BTC" -d "31-12-2050"
 
@@ -9,3 +10,4 @@ $bet -a "XXXX"
 
 To delete a bet, take the bet ID and:
 $bet -d "XXXX"
+```
